@@ -1,0 +1,27 @@
+img{
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:100%;
+	z-index:-1;
+}
+.box{
+	border:#FF99FF thin;
+}
+a{
+	border:#00FF00 outset;
+	border-radius: 10px;
+	color:#000000;
+	text-align:center;
+	padding-top:10px;
+	margin-left:220px;
+	text-decoration:none;
+	background-color:#FF0000;
+	display:inline-block;
+}
+a:hover{
+	background-color:#00CCFF;
+}
+table, th,td{
+	border:#00FF33 outset 5px;
+}
