@@ -1,0 +1,15 @@
+.outer{
+	border:#666666 outset 2px;
+	width:400px;
+	height:auto;
+	margin:50px;
+	
+}
+.input_number{
+	border:solid #999999 1px;
+	width:100%;
+	height:50px;
+}
+.operation{
+	
+}
